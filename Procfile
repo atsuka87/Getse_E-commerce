@@ -1,2 +1,2 @@
-release: php artisan migrate --force && npm run build && php artisan view:clear
+release: php artisan migrate --force && npm run build && php artisan view:clear && php artisan storage:link
 web: php artisan serve --host=0.0.0.0 --port=3302
