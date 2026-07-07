@@ -18,6 +18,7 @@ class DatabaseSeeder extends Seeder
             ProductsTableSeeder::class,
             ProductImagesTableSeeder::class,
             ProductSpecsTableSeeder::class,
+            ShippingMethodSeeder::class,
         ]);
     }
 }
