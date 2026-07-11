@@ -16,7 +16,7 @@
                     <span class="bg-gradient-to-r from-cyan-400 to-purple-400 bg-clip-text text-transparent">Terpercaya #1</span>
                 </h1>
                 <p class="text-lg md:text-xl text-blue-100 mb-8 max-w-2xl">
-                    Jual HP, Laptop, TV, Audio & aksesoris elektronik berkualitas dengan harga terbaik. Garansi resmi dan garansi toko untuk setiap pembelian.
+                    Jual Kulkas, Speaker, Rice Cooker, Mesin Cuci &amp; aksesoris elektronik berkualitas dengan harga terbaik. Garansi resmi dan garansi toko untuk setiap pembelian.
                 </p>
                 <div class="flex flex-col sm:flex-row gap-4">
                     <a href="{{ route('products.index') }}" class="inline-flex items-center justify-center bg-white text-blue-900 font-bold px-8 py-3.5 rounded-xl hover:shadow-xl hover:shadow-blue-500/25 transition-all hover:-translate-y-0.5">
